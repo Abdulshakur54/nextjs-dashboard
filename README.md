@@ -1,6 +1,7 @@
 ## Next.js App Router Course - Starter
 
-In this course, I learnt hands-on to build a financial application with a dashboard and authentication functionality using the following technologies
+In this course, I learnt hands-on by building a financial application with a dashboard and authentication functionality using the following technologies
+
 - NextJs
 - NextAuth
 - Postgres
